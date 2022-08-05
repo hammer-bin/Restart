@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		897624CF289D8D6F00AB0D8C /* CircleGroupView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 897624CE289D8D6F00AB0D8C /* CircleGroupView.swift */; };
 		89B5CEFF289C65BB00486A45 /* chimeup.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 89B5CEFD289C65BB00486A45 /* chimeup.mp3 */; };
 		89B5CF00289C65BB00486A45 /* success.m4a in Resources */ = {isa = PBXBuildFile; fileRef = 89B5CEFE289C65BB00486A45 /* success.m4a */; };
 		89B5CF07289C69A700486A45 /* OnboardingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89B5CF06289C69A700486A45 /* OnboardingView.swift */; };
@@ -18,6 +19,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		897624CE289D8D6F00AB0D8C /* CircleGroupView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleGroupView.swift; sourceTree = "<group>"; };
 		89B5CEFD289C65BB00486A45 /* chimeup.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = chimeup.mp3; sourceTree = "<group>"; };
 		89B5CEFE289C65BB00486A45 /* success.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = success.m4a; sourceTree = "<group>"; };
 		89B5CF05289C68C000486A45 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
@@ -63,6 +65,7 @@
 		89B5CF03289C674100486A45 /* Views */ = {
 			isa = PBXGroup;
 			children = (
+				897624CE289D8D6F00AB0D8C /* CircleGroupView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -185,6 +188,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				897624CF289D8D6F00AB0D8C /* CircleGroupView.swift in Sources */,
 				89B5CF07289C69A700486A45 /* OnboardingView.swift in Sources */,
 				89B5CF09289C69BE00486A45 /* HomeView.swift in Sources */,
 				89BC4C5E289B4518006EC142 /* ContentView.swift in Sources */,
